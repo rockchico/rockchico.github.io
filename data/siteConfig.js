@@ -24,9 +24,10 @@ module.exports = {
   icon: 'content/images/baymax.png',
   postsPerPage: 6,
   //disqusShortname: 'maxpou', 
-  disqusShortname: 'maxpou', // francisco 07/07/202: desabilita disquss
+  disqusShortname: '', // francisco 07/07/202: desabilita disquss
   headerTitle: 'Blog 123',
-  headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
+  //headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
+  headerLinksIcon: '', // francisco 07/07/202: desabilita icone
   headerLinks: [
     {
       label: 'Blog',
