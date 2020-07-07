@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
+  siteTitle: 'blog-francisco-schwertner',
   siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
   authorName: 'Maxence Poutord',
   twitterUsername: '_maxpou',
@@ -14,7 +14,7 @@ module.exports = {
   siteUrl: 'https://maxpou.github.io/',
   disqusSiteUrl: 'https://www.maxpou.fr/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
+  pathPrefix: '', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-baymax.jpeg', // file in content/images
   googleAnalyticsId: 'UA-67868977-2',
   background_color: '#ffffff',
@@ -23,7 +23,7 @@ module.exports = {
   icon: 'content/images/baymax.png',
   postsPerPage: 6,
   disqusShortname: 'maxpou',
-  headerTitle: 'gatsby-starter-morning-dew',
+  headerTitle: 'Blog 123',
   headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
   headerLinks: [
     {
