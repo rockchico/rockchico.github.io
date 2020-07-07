@@ -1,0 +1,1 @@
+module.exports = require("/mnt/c/Users/Francisco Schwertner/Documents/Desenvolvimento/rockchico.github.io/src/utils/typography")
