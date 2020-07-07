@@ -11,18 +11,20 @@ module.exports = {
   As a digital nomad, he is living where the WiFi and sun are 😎 <br>
   Do you want to know more? <a href="https://www.maxpou.fr/about" rel="noopener" target="_blank">Visit my website!</a>
   `,
-  siteUrl: 'https://maxpou.github.io/',
-  disqusSiteUrl: 'https://www.maxpou.fr/',
+  siteUrl: 'https://rockchico.github.io/',
+  //disqusSiteUrl: 'https://www.maxpou.fr/',
+  disqusSiteUrl: '', // francisco 07/07/202: desabilita disquss
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-baymax.jpeg', // file in content/images
-  googleAnalyticsId: 'UA-67868977-2',
+  googleAnalyticsId: 'UA-171863758-1', // francisco 07/07/2020 - conf analytics
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
   icon: 'content/images/baymax.png',
   postsPerPage: 6,
-  disqusShortname: 'maxpou',
+  //disqusShortname: 'maxpou', 
+  disqusShortname: 'maxpou', // francisco 07/07/202: desabilita disquss
   headerTitle: 'Blog 123',
   headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
   headerLinks: [
