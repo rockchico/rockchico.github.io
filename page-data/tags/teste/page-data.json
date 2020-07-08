@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/teste","result":{"data":{"posts":{"edges":[{"node":{"excerpt":"Primeiro Texto Teste","timeToRead":1,"frontmatter":{"title":"Primeiro Post","tags":["livro","machine-learning","no-cover","teste"],"language":"en","slug":"primeiro-post"}}}]}},"pageContext":{"tag":"teste"}}}
