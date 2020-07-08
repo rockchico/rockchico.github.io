@@ -4,6 +4,7 @@ slug: primeiro-post
 date: 2020-07-07
 language: en
 generate-card: false
+disqus: false
 tags:
   - livro
   - machine-learning

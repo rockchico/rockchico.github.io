@@ -16,7 +16,7 @@ module.exports = {
   disqusSiteUrl: '', // francisco 07/07/202: desabilita disquss
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '', // Note: it must *not* have a trailing slash.
-  siteCover: 'cover-baymax.jpeg', // file in content/images
+  siteCover: 'Pablo-Picasso-Femme-au-beret-et-a-la-robe-quadrillee-Marie-Therese-Walter-December-1937.jpg', // file in content/images
   googleAnalyticsId: 'UA-171863758-1', // francisco 07/07/2020 - conf analytics
   background_color: '#ffffff',
   theme_color: '#222222',

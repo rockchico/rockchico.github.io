@@ -5,6 +5,7 @@ date: 2018-11-13
 language: en
 cover: ./cover-balloons.jpg
 imageShare: ./social-media-card-generator-share.png
+disqus: false
 tags:
   - gatsby
 ---
