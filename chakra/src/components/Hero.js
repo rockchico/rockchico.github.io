@@ -8,6 +8,8 @@ import {
   useBreakpointValue,
 } from '@chakra-ui/react'
 
+import {Link} from 'next'
+
 export const Hero = ({ title }) => (
 
   <Stack minH={'100vh'} direction={{ base: 'column', md: 'row' }}>
@@ -46,7 +48,9 @@ export const Hero = ({ title }) => (
             _hover={{
               bg: 'blue.500',
             }}>
-            CV / Resumee
+              <a target="_blank" href="https://github.com/rockchico/rockchico.github.io/raw/master/Francisco_Dev_back_end.pdf" rel="noopener noreferrer">
+                CV / Resumee
+              </a>
           </Button>
 
         </Stack>
