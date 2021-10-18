@@ -38,7 +38,7 @@ export const Hero = ({ title }) => (
 
         </Heading>
         <Text fontSize={{ base: 'md', lg: 'lg' }} color={'gray.500'}>
-          Desenvolvimento Web, React/Node
+          Web Development, React/Node/Python
         </Text>
         <Stack direction={{ base: 'column', md: 'row' }} spacing={4}>
           <Button
@@ -49,7 +49,7 @@ export const Hero = ({ title }) => (
               bg: 'blue.500',
             }}>
               <a target="_blank" href="https://github.com/rockchico/rockchico.github.io/raw/master/Francisco_Dev_back_end.pdf" rel="noopener noreferrer">
-                CV / Resumee
+                CV / Résumé
               </a>
           </Button>
 
